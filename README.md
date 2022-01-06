@@ -14,7 +14,7 @@ I really enjoy coding especially in C++, C# (with Unity) and Java (Minecraft mod
 
 ### Got interested ? You can join me however you want
 - with LinkedIn : https://www.linkedin.com/in/alban-bernard/
-- with mail : bounechber@gmail.com
+- with mail : alban.leandre.bernard@gmail.com
 
 Hope you enjoyed your visit ;)
 Bye bye !
